@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <style> 
+img { border-radius: 50%; } 
+table { border-spacing: 80px; }
+body {
+background-image:url("image 14.WEBP"); background-image:blur(8px); background-size:cover; background-position:center; background-repeat:no-repeat; 
+}
+</style> 
+</head>
+<body>
+<center>
+<table class="table img-circle">
+<div class="container">
+<tr align="center">
+<td>
+<img src="image 1.jfif" height=200 width=200><br><br><br>
+<h2>Physical Education</h2>
+<button type="button" class="btn btn-dark" hight=10px width=35px><a href="https://www.kongu.ac.in/facilities/sports.php">view-details</a></button>
+</td>
+<td>
+<img src="image 2.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Hostels and Accommodation</h2>
+<button type="button" class="btn btn-dark" hight=10px width=35px><a href="https://www.kongu.ac.in/facilities/accommodation.php">view-details</a></button>
+</td>
+<td>
+<img src="image 3.jfif" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Transport</h2>
+<button type="button" class="btn btn-dark" hight=10px width=35px><a href="https://www.kongu.ac.in/facilities/transport.php">view-details</a></button>
+</td>
+<td>
+<img src="image 4.jfif" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Dispensary</h2>
+<button type="button" class="btn btn-dark" hight=10px width=35px><a href="https://www.kongu.ac.in/facilities/dispensary.php">view-details</a></button>
+</td>
+</tr>
+<tr align="center">
+<td>
+<img src="image 5.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>WiFi Facility</h2></td>
+<td>
+<img src="image 6.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Ambulance</h2></td>
+<td>
+<img src="image 7.jfif" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Foodcourt</h2></td>
+<td>
+<img src="image 8.jfif" height=200 width=200 class="img-circle"><br><br><br>
+<h2>RO Purifier</h2></td>
+</tr>
+<tr align="center">
+<td>
+<img src="image 9.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Amenity Centre</h2></td>
+<td>
+<img src="image 10.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>KVB Bank & ATM</h2></td>
+<td>
+<img src="image 11.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>Post Office</h2></td>
+<td>
+<img src="image 12.jpg" height=200 width=200 class="img-circle"><br><br><br>
+<h2>24 x 7 Power Supply</h2></td>
+</tr>
+</div>
+</table>
+</center>
+</body>
+</html>
